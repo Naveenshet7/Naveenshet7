@@ -1,8 +1,8 @@
 ![logo](https://github.com/Naveenshet7/Naveenshet7/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Naveen Kumar S R</h1>
 <h3 align="center">A passionate Cloud, CyberSecurity, Full Stack Developer from Bengaluru, India.</h3>
-<img align="center" width="400" <img src="https://i.ibb.co/hB9LPQr/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif">
-- 🌱 I’m currently learning **AWS,DevOps.**
+<img align="center" width="300" <img src="https://github.com/Naveenshet7/Naveenshet7/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+- 🌱 I’m currently learning **AWS, DevOps.**
 
 - 📫 How to reach me **naveenshet357@gmail.com**
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar S R</h1>
 <h3 align="center">A passionate Cloud, CyberSecurity, Full Stack Developer from Bengaluru, India.</h3>
-<img align="right" width="100" src="<a href="https://ibb.co/PcjF7XJ"><img src="https://i.ibb.co/hB9LPQr/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif">
+<img align="center" width="400" <img src="https://i.ibb.co/hB9LPQr/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif">
 - 🌱 I’m currently learning **AWS,DevOps.**
 
 - 📫 How to reach me **naveenshet357@gmail.com**
